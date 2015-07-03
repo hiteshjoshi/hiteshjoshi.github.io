@@ -2,8 +2,8 @@
 layout: post
 title: "Modular angularjs boilerplate with grunt"
 description: ""
-category: 
-tags: []
+category: angularjs,frontend
+tags: [frontend]
 ---
 {% include JB/setup %}
 
